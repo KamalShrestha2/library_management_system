@@ -23,7 +23,7 @@ Frontend (HTML + CSS + JavaScript)
 
 Backend (Flask + PostgreSQL)
 
-🐍 Flask (RESTful API & Backend Logic)
+🐍 Flask (Backend Logic)
 
 🐘 PostgreSQL (Relational Database)
 
