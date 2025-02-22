@@ -1,6 +1,6 @@
 📌 About LibManage
 
-LibManage is a comprehensive library management system that streamlines book tracking, member management, and library operations. Members can browse books, make reservations, and issue or return books seamlessly, while staff and admins can efficiently manage inventory, members, and fines.
+Our Library Management System is a comprehensive library management system that streamlines book tracking, member management, and library operations. Members can browse books, make reservations, and issue or return books seamlessly, while staff and admins can efficiently manage inventory, members, and fines.
 
 ✨ Features
 
@@ -13,11 +13,18 @@ LibManage is a comprehensive library management system that streamlines book tra
 🔍 Search & Filter — Find books by title, author, genre, or ISBN easily.
 
 🛠️ Tech Stack
+
 Frontend (HTML + CSS + JavaScript)
+
 🎨 HTML/CSS (Structure & Styling)
+
 💡 JavaScript (Dynamic Interactions)
 
+
 Backend (Flask + PostgreSQL)
+
 🐍 Flask (RESTful API & Backend Logic)
+
 🐘 PostgreSQL (Relational Database)
+
 🔗 psycopg2 (Database Connectivity)
