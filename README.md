@@ -1,7 +1,9 @@
 📌 About LibManage
+
 LibManage is a comprehensive library management system that streamlines book tracking, member management, and library operations. Members can browse books, make reservations, and issue or return books seamlessly, while staff and admins can efficiently manage inventory, members, and fines.
 
 ✨ Features
+
 📚 Book & Copy Management — Track books, authors, genres, and individual copies.
 👥 Member & Staff Management — Manage library members, staff, and admins with role-based access.
 📖 Issuing & Returning Books — Issue books, track due dates, and manage returns.
