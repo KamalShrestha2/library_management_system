@@ -24,10 +24,10 @@ background.webp
 background.webp
 *.ipynb
 app/*.ipynb
-!app/run.py
+app/run.py
 
 # Un-ignore specific notebook
-!app/Untitled-1.ipynb
+app/Untitled-1.ipynb
 
 
 greatescapewoodlandsnursinghome.jpg
