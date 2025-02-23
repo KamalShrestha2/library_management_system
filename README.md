@@ -1,11 +1,8 @@
 # Our Hosted Link 
 https://library-management-system-y427.onrender.com/
 
-
-# 📌 About LibManage
-
-Our Library Management System is a comprehensive library management system that streamlines book tracking, member management, and library operations. Members can browse books, make reservations, and issue or return books seamlessly, while staff and admins can efficiently manage inventory, members, and fines.
-
+# 📌 About LibManage<br>
+Our Library Management System is a comprehensive library management system that streamlines book tracking, member management, and library operations. Members can browse books, make reservations, and issue or return books seamlessly, while staff and admins can efficiently manage inventory, members, and fines.<br>
 # Features
 📚 Book & Copy Management — Track books, authors, genres, and individual copies.<br>
 👥 Member & Staff Management — Manage library members, staff, and admins with role-based access.<br>
@@ -15,19 +12,12 @@ Our Library Management System is a comprehensive library management system that 
 🔒 Role-based Access — Separate portals and access levels for Admin, Staff, and Members.<br>
 🔍 Search & Filter — Find books by title, author, genre, or ISBN easily.<br>
 
-# 🛠️ Tech Stack
+# 🛠️ Tech Stack<br>
+## 1.Frontend (HTML + CSS + JavaScript)<br>
+🎨 HTML/CSS (Structure & Styling)<br>
+💡 JavaScript (Dynamic Interactions)<br>
 
-## 1.Frontend (HTML + CSS + JavaScript)
-
-🎨 HTML/CSS (Structure & Styling)
-
-💡 JavaScript (Dynamic Interactions)
-
-
-## 2.Backend (Flask + PostgreSQL)
-
-🐍 Flask (Backend Logic)
-
-🐘 PostgreSQL (Relational Database)
-
-🔗 psycopg2 (Database Connectivity)
+## 2.Backend (Flask + PostgreSQL)<br>
+🐍 Flask (Backend Logic)<br>
+🐘 PostgreSQL (Relational Database)<br>
+🔗 psycopg2 (Database Connectivity)<br>
