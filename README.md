@@ -17,14 +17,14 @@ Our Library Management System is a comprehensive library management system that 
 
 # 🛠️ Tech Stack
 
-Frontend (HTML + CSS + JavaScript)
+## 1.Frontend (HTML + CSS + JavaScript)
 
 🎨 HTML/CSS (Structure & Styling)
 
 💡 JavaScript (Dynamic Interactions)
 
 
-Backend (Flask + PostgreSQL)
+## 2.Backend (Flask + PostgreSQL)
 
 🐍 Flask (Backend Logic)
 
