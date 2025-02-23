@@ -1,8 +1,8 @@
-**Our Hosted Link **
+# Our Hosted Link 
     https://library-management-system-y427.onrender.com/
 
 
-**📌 About LibManage**
+#📌 About LibManage
 
 Our Library Management System is a comprehensive library management system that streamlines book tracking, member management, and library operations. Members can browse books, make reservations, and issue or return books seamlessly, while staff and admins can efficiently manage inventory, members, and fines.
 
@@ -16,7 +16,7 @@ Our Library Management System is a comprehensive library management system that 
 🔒 Role-based Access — Separate portals and access levels for Admin, Staff, and Members.
 🔍 Search & Filter — Find books by title, author, genre, or ISBN easily.
 
-**🛠️ Tech Stack**
+#🛠️ Tech Stack
 
 Frontend (HTML + CSS + JavaScript)
 
