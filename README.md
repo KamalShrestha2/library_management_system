@@ -6,8 +6,7 @@ https://library-management-system-y427.onrender.com/
 
 Our Library Management System is a comprehensive library management system that streamlines book tracking, member management, and library operations. Members can browse books, make reservations, and issue or return books seamlessly, while staff and admins can efficiently manage inventory, members, and fines.
 
-**✨ Features
-**
+# Features
 📚 Book & Copy Management — Track books, authors, genres, and individual copies.
 👥 Member & Staff Management — Manage library members, staff, and admins with role-based access.
 📖 Issuing & Returning Books — Issue books, track due dates, and manage returns.
@@ -16,7 +15,7 @@ Our Library Management System is a comprehensive library management system that 
 🔒 Role-based Access — Separate portals and access levels for Admin, Staff, and Members.
 🔍 Search & Filter — Find books by title, author, genre, or ISBN easily.
 
-#🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Frontend (HTML + CSS + JavaScript)
 
